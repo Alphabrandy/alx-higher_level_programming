@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """This module defines a Pascal's Triangle function"""
 
-
 def pascal_triangle(n):
     """Represents Pascal's Triangle of size n
     """
@@ -12,4 +11,3 @@ def pascal_triangle(n):
     while len(triangles) != n:
         tri = triangles[-1]
         tmp = [1]
-
