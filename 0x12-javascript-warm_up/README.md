@@ -1,1 +1,1 @@
-#Solution to task on javascript-warm_up
+# Solution to task on javascript-warm_up
